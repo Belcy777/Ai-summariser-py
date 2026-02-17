@@ -1,0 +1,13 @@
+body {
+    background: #f4f6f9;
+    transition: 0.3s;
+}
+
+.dark-mode {
+    background: #1e1e1e;
+    color: white;
+}
+
+.card {
+    border-radius: 15px;
+}
